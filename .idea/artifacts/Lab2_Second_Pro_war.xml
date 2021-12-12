@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Lab2_Second_Pro:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Lab2_Second_Pro</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="soa-lab2-second.war">
+      <element id="artifact" artifact-name="Lab2_Second_Pro:war exploded" />
+    </root>
+  </artifact>
+</component>
